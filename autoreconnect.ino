@@ -1,5 +1,5 @@
 #include <WiFi.h>
-unsigned long delay2 = millis() // delay2 for reconnect and fail
+unsigned long delay2 = millis(); // delay2 for reconnect and fail
 
 void WiFiConnect()
 {
